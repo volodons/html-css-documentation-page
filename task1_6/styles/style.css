@@ -21,7 +21,7 @@
   color: black;
 }
 
-.navigation__menu__header {
+.navigation__menu-header {
   font-size: 1.5rem;
 }
 
@@ -84,18 +84,18 @@
   padding: 0.5rem;
 }
 
-.main-content__article__fieldset {
+.main-content__article-fieldset {
   background: white;
 }
 
-.main-content__article__text__brown {
+.main-content__article-text--brown {
   color: brown;
 }
 
-.main-content__article__text__red {
+.main-content__article-text--red {
   color: red;
 }
 
-.main-content__article__text__blue {
+.main-content__article-text--blue {
   color: blue;
 }
